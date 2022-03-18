@@ -16,3 +16,6 @@
 ##### (RetinaNet)["Focal Loss for Dense Object Detection"](https://arxiv.org/abs/1708.02002) By- Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollar 2017
 
 ##### [TensorFlow's Model Garden](https://github.com/tensorflow/models)
+
+
+##### ["Fully Convolutional Networks for Semantic Segmentation"](https://arxiv.org/abs/1411.4038)
