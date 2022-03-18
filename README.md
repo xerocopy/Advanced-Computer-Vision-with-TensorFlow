@@ -18,4 +18,4 @@
 ##### [TensorFlow's Model Garden](https://github.com/tensorflow/models)
 
 
-##### "Fully Convolutional Networks for Semantic Segmentation"[(link)](https://arxiv.org/abs/1411.4038) (Long, Shelhamer & Darrell, 2014)
+##### "Fully Convolutional Networks for Semantic Segmentation"[(Long, Shelhamer & Darrell, 2014)]((https://arxiv.org/abs/1411.4038))
