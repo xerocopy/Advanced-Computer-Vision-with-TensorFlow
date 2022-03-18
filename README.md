@@ -13,4 +13,6 @@
 
 ##### Please go through this [official tutorial](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_object_detection.ipynb) from Tensorflow to practice using the Object Detection API
 
-##### ["Focal Loss for Dense Object Detection"](https://arxiv.org/abs/1708.02002) By- Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollar
+##### (RetinaNet)["Focal Loss for Dense Object Detection"](https://arxiv.org/abs/1708.02002) By- Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollar 2017
+
+##### [TensorFlow's Model Garden](https://github.com/tensorflow/models)
