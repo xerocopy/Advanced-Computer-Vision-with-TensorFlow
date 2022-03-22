@@ -15,8 +15,12 @@
 
 ##### (RetinaNet)["Focal Loss for Dense Object Detection"](https://arxiv.org/abs/1708.02002) By- Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollar 2017
 
+##### [RetinaNet code](https://github.com/facebookresearch/Detectron)
+
 ##### [TensorFlow's Model Garden](https://github.com/tensorflow/models)
 
 ##### "Fully Convolutional Networks for Semantic Segmentation"[(Long, Shelhamer & Darrell, 2014)](https://arxiv.org/abs/1411.4038)
 
 ##### [Divam Gupta's GitHub](https://github.com/divamgupta) account containing a subsample of the CamVid dataset to create a smaller dataset.
+
+#### [downloadable tensorflow detection models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
