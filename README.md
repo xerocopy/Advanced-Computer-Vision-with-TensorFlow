@@ -23,4 +23,4 @@
 
 ##### [Divam Gupta's GitHub](https://github.com/divamgupta) account containing a subsample of the CamVid dataset to create a smaller dataset.
 
-#### [downloadable tensorflow detection models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+#### [Downloadable Tensorflow Detection Models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
