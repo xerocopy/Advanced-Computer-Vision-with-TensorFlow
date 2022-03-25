@@ -24,3 +24,5 @@
 ##### [Divam Gupta's GitHub](https://github.com/divamgupta) account containing a subsample of the CamVid dataset to create a smaller dataset.
 
 #### Downloadable Tensorflow Detection Models from [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+
+#### There is one interesting [link](https://shaoanlu.wordpress.com/2017/05/29/sgd-all-which-one-is-the-best-optimizer-dogs-vs-cats-toy-experiment/) I have found comparing SGD and Adam. The author claims SGD is the best optimizer.
