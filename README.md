@@ -3,6 +3,10 @@
 #### References:
 
 ##### (R-CNN) Rich feature hierarchies for accurate object detection and semantic segmentation [(Girshick, Donahue, Darrell & Malik, 2013)](https://arxiv.org/abs/1311.2524)
+
+#### [DeepLab:](http://liangchiehchen.com/projects/DeepLab.html) Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs  (Chen, Papandreou, Kokkinos, Murphy, and Yuille, 2016)
+  
+#### [Mask R-CNN](https://arxiv.org/abs/1703.06870) (He, Gkioxari, Dollár & Girshick, 2017)
   
 ##### Fast R-CNN [(Girshick, 2015)](https://arxiv.org/abs/1504.08083)
 
@@ -28,3 +32,14 @@
 #### There is one interesting [link](https://shaoanlu.wordpress.com/2017/05/29/sgd-all-which-one-is-the-best-optimizer-dogs-vs-cats-toy-experiment/) I have found comparing SGD and Adam. The author claims SGD is the best optimizer.
 
 #### [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) (Ronneberger, Fischer & Brox, 2015)
+
+#### [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/pdf/1610.02391.pdf) (Selvaraju, Cogswell, Das, Vedantam,
+  Parikh & Batra, 2019)
+  
+#### A conceptual overview of GradCam
+For an optional, conceptual look at GradCAM, please see these videos from Deeplearning.AI’s [“AI for Medical Treatment” course](https://www.coursera.org/learn/ai-for-medical-treatment). Content including: [Interpreting CNN models](https://www.coursera.org/learn/ai-for-medical-treatment#syllabus); [Localization maps](https://www.coursera.org/learn/ai-for-medical-treatment#syllabus);[Heat maps](https://www.coursera.org/learn/ai-for-medical-treatment#syllabus)
+
+#### [(ZFNet)](https://arxiv.org/abs/1311.2901) Visualizing and Understanding Convolutional Networks (Zeiler & Fergus, 2013)
+
+
+
