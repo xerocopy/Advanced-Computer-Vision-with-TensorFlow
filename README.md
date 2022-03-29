@@ -2,7 +2,7 @@
 
 #### References:
 
-##### (R-CNN) Rich feature hierarchies for accurate object detection and semantic segmentation [(Girshick, Donahue, Darrell & Malik, 2013)](https://arxiv.org/abs/1311.2524)
+##### [(R-CNN)](https://arxiv.org/abs/1311.2524) Rich feature hierarchies for accurate object detection and semantic segmentation (Girshick, Donahue, Darrell & Malik, 2013)
 
 #### [DeepLab:](http://liangchiehchen.com/projects/DeepLab.html) Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs  (Chen, Papandreou, Kokkinos, Murphy, and Yuille, 2016)
   
