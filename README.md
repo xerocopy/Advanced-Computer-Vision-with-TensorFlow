@@ -42,4 +42,5 @@ For an optional, conceptual look at GradCAM, please see these videos from Deeple
 #### [(ZFNet)](https://arxiv.org/abs/1311.2901) Visualizing and Understanding Convolutional Networks (Zeiler & Fergus, 2013)
 
 
-
+### Update
+zombies has been moved to new place： https://storage.googleapis.com/tensorflow-3-public/datasets/training-zombie.zip \
