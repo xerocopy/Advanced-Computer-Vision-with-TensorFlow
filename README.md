@@ -44,3 +44,4 @@ For an optional, conceptual look at GradCAM, please see these videos from Deeple
 
 ### Update
 zombies has been moved to new place： https://storage.googleapis.com/tensorflow-3-public/datasets/training-zombie.zip \
+https://storage.googleapis.com/tensorflow-3-public/datasets/zombie-walk-frames.zip \
